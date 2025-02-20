@@ -1,5 +1,5 @@
 <div><br class="Apple-interchange-newline"><h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=FiraCode&size=35&lines=Hi+I'm+Sarang+Gole!+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=FiraCode&size=35&lines=Hi+I'm+Sakshi+Shingole!+👋" />
 </h1>
 
 
