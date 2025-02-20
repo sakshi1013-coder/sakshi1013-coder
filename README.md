@@ -44,11 +44,9 @@
 <div align="center">
 <h2>Connect with Me</h2> 
   <p align="center">
-<a href="https://twitter.com/SarangGole22017?t=p-hDi-hdKwjkgT0GRr8rbg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SarangGole22017" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sarang-gole-43042831b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarang-gole-43042831b" height="30" width="40" /></a>
-<a href="https://www.instagram.com/saranggole9106/profilecard/?igsh=MXNlZTlmOGcxdGpoNw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saranggole9106" height="30" width="40" /></a>
-<a href="https://youtube.com/@saranggole1947?feature=shared" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="saranggole1947" height="30" width="40" /></a>
-<a href="https://www.snapchat.com/add/saranggole2024?share_id=1dhyD40quz4&locale=en-IN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="saranggole2024" height="30" width="40" /></a>  
+<a href="www.linkedin.com/in/sakshi-shingole-484913315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi-shingole-484913315" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sakshi_shingole?igsh=azdtYWF6azRpeHA1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakshi_shingole" height="30" width="40" /></a>
+<a href="https://www.snapchat.com/add/sakshishingole?share_id=JQ7e4EB7k7Q&locale=en-IN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="sakshishingole" height="30" width="40" /></a>  
 
 
 
