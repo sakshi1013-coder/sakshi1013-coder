@@ -15,8 +15,6 @@
 
 
 
-![gif](https://github.com/user-attachments/assets/9f28c596-ef14-427d-993a-154a4239136e)
-</div>
 
 
 ## 🧑🏻 About me
