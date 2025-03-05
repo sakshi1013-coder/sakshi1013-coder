@@ -7,7 +7,6 @@
 ## Welcome to my GitHub profile! 
 <div>
 <div align ="center">
-<img src="https://github.com/user-attachments/assets/24c288ad-ac07-48ed-9caf-f6331a872611" alt="Хакер" width="900">
 
 </div>
 
@@ -59,22 +58,12 @@
 
 
 <div align="center">
-<h2>My Contribution </h2>
+
 
 <img src="https://raw.githubusercontent.com/Saranggole9106/snk/refs/heads/main/github-user-contribution.svg" alt="GitHub Snake" width="4000">
 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-<div align="center">
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saranggole9106&theme=react-light" alt="Sanrang's Contribution Graph" width="700">
-</a>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saranggole9106&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saranggole9106&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saranggole9106&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saranggole9106&theme=solarized&utcOffset=5.3)
 </div></div>
 
 
