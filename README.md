@@ -60,7 +60,7 @@
 <div align="center">
 
 
-<img src="https://raw.githubusercontent.com/Saranggole9106/snk/refs/heads/main/github-user-contribution.svg" alt="GitHub Snake" width="4000">
+
 
 
 
