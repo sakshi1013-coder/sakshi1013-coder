@@ -53,7 +53,7 @@
 <p align="center">
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,figma,git,html,photoshop,postman,python" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,figma,git,html,css,photoshop,postman,python" />
 </p>
 
 
