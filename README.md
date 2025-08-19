@@ -1,76 +1,25 @@
-<div><br class="Apple-interchange-newline"><h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=FiraCode&size=35&lines=I'm+Sakshi+Shingole!+👋" />
-</h1>
+<h1 style:fontsize=10, align="center">Hi!! 👋 <br>Welcome to my github </h1>
+<img src = https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sakshi%20Shingole&reversal=false&fontColor=ffffff&fontSize=70&animation=fadeIn&rotate=0&desc=frontend%20developer&textBg=false>
+<h3 align="center">Front-End Developer passionate about building interactive, user-friendly web experiences. Currently exploring Prompt Engineering and how AI can be integrated into real-world applications.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi1013-coder&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi1013-coder" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshi1013-coder" alt="sakshi1013-coder" /></a> </p>
 
-## Welcome to my GitHub profile! 
-<div>
-<div align ="center">
+- 🌱 I’m currently learning **frontend, backend, prompt engineering**
 
-</div>
+- 📫 How to reach me **sakphotos1013@gmail.com**
 
-
-
-
-
-
-
-## 🧑🏻 About me
-
-👨‍💻 I am a Passionate Learner
-
-🚀 A coding enthusiast weaving a digital journey that blends creativity and innovation into meaningful solutions.
-
-🌱 I’m currently learning Generative AI, C++, and Google AppSheet to expand my expertise in emerging technologies.
-
-⚡ I am also interested in Web Development, Machine Learning, Artificial Intelligence, and Augmented Reality.
-
-💡 I enjoy solving problems, building projects, and participating in hackathons.
-
-🌱 I’m currently learning **B.Tech in Computer Science and Engineering**
-
-👨‍💻 All of my projects are available at github profile.
-
-<h2>
- <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-<div align="center">
-
-
- 
-<div align="center">
-<h2>Connect with Me</h2> 
-  <p align="center">
-<a href="https://www.linkedin.com/in/sakshi-shingole-484913315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi-shingole-484913315" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sakshi_shingole?igsh=azdtYWF6azRpeHA1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakshi_shingole" height="30" width="40" /></a>
-<a href="https://www.snapchat.com/add/sakshishingole?share_id=JQ7e4EB7k7Q&locale=en-IN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="sakshishingole" height="30" width="40" /></a>  
-
-
-
-
-<div align="center">
-<h2>Language & tools </h2> 
-<p align="center">
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,figma,git,html,css,photoshop,postman,python" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sakshi shingole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi shingole" height="30" width="40" /></a>
+<a href="https://instagram.com/sakshi_shingole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakshi_shingole" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshi1013-coder&show_icons=true&locale=en&layout=compact" alt="sakshi1013-coder" /></p>
 
-
-
-
-
-
-</div></div>
-
-
-
-
-
-
-
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshi1013-coder&show_icons=true&locale=en" alt="sakshi1013-coder" /></p>
+<img src=https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false&fontColor=ffffff&fontSize=70&animation=fadeIn&rotate=0&textBg=false&section=footer>
