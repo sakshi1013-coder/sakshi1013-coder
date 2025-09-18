@@ -1,6 +1,11 @@
+<div>
+  <img src = https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sakshi%20Shingole&reversal=false&fontColor=ffffff&fontSize=70&animation=fadeIn&rotate=0&desc=frontend%20developer&textBg=false>
+</div>
+
 <h1 style:fontsize=10, align="center">Hi!! 👋 <br>Welcome to my github </h1>
-<img src = https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sakshi%20Shingole&reversal=false&fontColor=ffffff&fontSize=70&animation=fadeIn&rotate=0&desc=frontend%20developer&textBg=false>
-<h3 align="center">Front-End Developer passionate about building interactive, user-friendly web experiences. Currently exploring how AI can be integrated into real-world applications.</h3>
+
+<h3 align="center"> I am a Front-End Developer passionate about building interactive, user-friendly web experiences. Currently I am exploring how 
+  AI can be integrated into real-world applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi1013-coder&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi1013-coder" /> </p>
 
