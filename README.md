@@ -4,14 +4,14 @@
 
 <h1 style:fontsize=10, align="center">Hi!! 👋 <br>Welcome to my github </h1>
 
-<h3 align="center"> I am a Front-End Developer passionate about building interactive, user-friendly web experiences. Currently I am exploring how 
-  AI can be integrated into real-world applications.</h3>
+<h3 align="center"> I am a Front-End Developer passionate about building interactive, user-friendly web experiences. <br>
+  Currently I am exploring how AI can be integrated into real-world applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi1013-coder&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi1013-coder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshi1013-coder" alt="sakshi1013-coder" /></a> </p>
 
-- 🌱 I’m currently learning **frontend, backend, prompt engineering**
+- 🌱 I’m currently learning **frontend, backend**
 
 - 📫 How to reach me **sakphotos1013@gmail.com**
 
