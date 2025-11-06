@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **frontend, backend**
 
-- 📫 How to reach me **sakphotos1013@gmail.com**
+- 📫 How to reach me **sakmochi101306@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
