@@ -4,10 +4,12 @@
 
 <h1 style:fontsize=10, align="center">Hi!! 👋 <br>Welcome to my github </h1>
 
-<h3 align="center"> I am a Front-End Developer passionate about building interactive, user-friendly web experiences. <br>
-  Currently I am exploring how AI can be integrated into real-world applications.</h3>
+<h3 align="center"> I’m a full-stack developer who loves both sides of development — designing meaningful user experiences on the front end and building powerful, reliable backend systems.<br>
+  Whether it’s crafting a beautiful interface or optimizing behind-the-scenes logic, I enjoy bringing ideas to life from start to finish.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi1013-coder&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi1013-coder" /> </p>
+
+<a href="https://sakshisuniverse.vercel.app/" target="_blank" style="padding: 10px 16px; background: #0078ff; color: #fff; border-radius: 6px; text-decoration: none;">Visit My Website</a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshi1013-coder" alt="sakshi1013-coder" /></a> </p>
 
