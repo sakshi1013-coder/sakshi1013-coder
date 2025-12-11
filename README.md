@@ -11,7 +11,6 @@
 
 <a href="https://sakshisuniverse.vercel.app/" target="_blank" style="padding: 10px 16px; background: #0078ff; color: #fff; border-radius: 6px; text-decoration: none;">Visit My Website</a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshi1013-coder" alt="sakshi1013-coder" /></a> </p>
 
 - 🌱 I’m currently learning **frontend, backend**
 
