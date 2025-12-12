@@ -1,8 +1,8 @@
-name: Generate Snake Contribution Graph
+name: Generate Pacman Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -12,15 +12,14 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - name: Generate Pacman graph
+        uses: YoussefRaafatNasry/pacman-contribution-graph@main
         with:
-          github_user_name: "sakshi1013-coder"
-          outputs: |
-            ./output/github-contribution-grid-snake.svg
-            ./output/github-contribution-grid-snake-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: "sakshi1013-coder"
+          output: "output/pacman.svg"
 
-      - name: Push Snake to output branch
+      - name: Push output
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
