@@ -125,14 +125,7 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sakshi1013-coder/sakshi1013-coder/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sakshi1013-coder/sakshi1013-coder/output/github-contribution-grid-snake.svg">
-  <img alt="snake graph" src="https://raw.githubusercontent.com/sakshi1013-coder/sakshi1013-coder/output/github-contribution-grid-snake.svg">
-</picture>
-
+<img src="https://raw.githubusercontent.com/sakshi1013-coder/sakshi1013-coder/output/snake.svg" alt="Snake animation" />
 
 ###
 
