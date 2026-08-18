@@ -119,10 +119,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sakshi1013-coder/sakshi1013-coder/output/snake.svg" alt="Snake animation" />
-
 ###
-
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 <div>
