@@ -5,19 +5,19 @@ on:
   schedule:
     - cron: "0 0 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   github-metrics:
     runs-on: ubuntu-22.04
-    permissions:
-      contents: write
 
     steps:
       - name: ✨ Stargazers
         uses: lowlighter/metrics@latest
         with:
-          user: saksh1013-coder
-          token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.stargazers.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_stargazers: yes
           output_action: commit
