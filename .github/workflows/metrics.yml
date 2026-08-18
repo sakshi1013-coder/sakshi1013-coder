@@ -1,32 +1,26 @@
-name: Test Metrics Token
+name: GitHub Metrics
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
 
 jobs:
-  test:
-    runs-on: ubuntu-22.04
+  github-metrics:
+    runs-on: ubuntu-latest
 
     steps:
-      - name: Check GitHub account
-        env:
-          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
-        run: |
-          echo "Repository owner: ${{ github.repository_owner }}"
-          echo "Repository: ${{ github.repository }}"
-          echo ""
-          echo "Token belongs to:"
-          curl -s \
-            -H "Authorization: Bearer $GH_TOKEN" \
-            -H "X-GitHub-Api-Version: 2022-11-28" \
-            https://api.github.com/user | jq '{login, id, name}'
-
-      - name: Check target user
-        env:
-          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
-        run: |
-          echo "Checking saksh1013-coder..."
-          curl -s \
-            -H "Authorization: Bearer $GH_TOKEN" \
-            -H "X-GitHub-Api-Version: 2022-11-28" \
-            https://api.github.com/users/saksh1013-coder | jq '{login, id, name, type}'
+      - name: ✨ Stargazers
+        uses: lowlighter/metrics@master
+        with:
+          user: saksh1013-coder
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.plugin.stargazers.svg
+          base: ""
+          plugin_stargazers: yes
+          output_action: commit
+          delay: 120
+          plugins_errors_fatal: yes
